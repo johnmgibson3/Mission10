@@ -20,7 +20,6 @@ function BowlerList () {
 
     return(
         <>
-            <h1>Bowlers</h1>
             <table>
                 <thead>
                     <tr>
